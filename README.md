@@ -20,6 +20,9 @@ To document my learning and share it with the community, I’ve uploaded the cod
 
 🔑 Key topics covered:
 1️⃣ DataFrames & Series: The backbone of Pandas.
+
 2️⃣ Data Cleaning: Handling missing values and messy datasets.
+
 3️⃣ Data Analysis: Grouping, filtering, and summarizing like a pro.
+
 4️⃣ File I/O: Reading and writing data in various formats (CSV, Excel, etc.).
