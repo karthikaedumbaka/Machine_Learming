@@ -12,13 +12,14 @@ Boolean indexing for conditional operations.
 Memory-efficient computations with dtype optimizations.
 
 
-Pandas in Python 🐼
+2️⃣Pandas in Python 🐼
 
 I spent the day exploring Pandas, one of Python’s most powerful libraries for data manipulation and analysis. From creating and cleaning DataFrames to advanced data operations, it’s incredible how much this library simplifies working with data.
 
 To document my learning and share it with the community, I’ve uploaded the code and examples to GitHub. Check it out here: [Insert GitHub link]
 
 🔑 Key topics covered:
+
 1️⃣ DataFrames & Series: The backbone of Pandas.
 
 2️⃣ Data Cleaning: Handling missing values and messy datasets.
